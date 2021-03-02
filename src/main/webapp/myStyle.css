@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2020, 1:50:34 PM
+    Author     : super computer 2.0
+*/
+
+body {
+  background-color:dimgray;
+}
+
+.lead {
+  color:white;
+  text-decoration: underline;
+  font-weight: bold;
+  
+}
+
+.centered {
+  text-align: center;
+  padding: 10px;
+}
+
+.searchBar {
+  float: right;
+}
+
+.inStock {
+  color: green;
+  background-color: black;
+
+}
+.outStock {
+  color: red;
+  background-color: black;
+} 
+
+.coloredBG {
+  background-color: azure;
+}
